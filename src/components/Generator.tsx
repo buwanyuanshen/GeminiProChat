@@ -261,7 +261,7 @@ export default () => {
           <textarea
             ref={inputRef!}
             onKeyDown={handleKeydown}
-            placeholder="Enter something..."
+            placeholder="开始对话吧！"
             autocomplete="off"
             autofocus
             onInput={() => {
@@ -271,8 +271,8 @@ export default () => {
             rows="1"
             class="gen-textarea"
           />
-          <button onClick={handleButtonClick} gen-slate-btn>
-            Send
+          <button onClick={handleButtonClick} gen-slate-btn1>
+            发送
           </button>
           <button title="Clear" onClick={clear} gen-slate-btn>
             <IconClear />
