@@ -278,72 +278,39 @@ export default () => {
             <IconClear />
           </button>
         </div>
-        <footer>
-  <p mt-10 text-xs op-30>
-    <a class="mr-5"
-      b-slate-link
-      href="http://ccfgpt.cn" target="_blank" style="color: red;"
-    >
+<footer>
+  <p mt-10="" text-xs="" op-30="">
+    <a class="mr-5" b-slate-link="" href="http://ccfgpt.cn" target="_blank" style="color: red;">
       Gemini Pro
     </a>
-    <a class="mr-5"
-      b-slate-link
-      href="http://66.ccf666.cn" target="_blank" style="color: orange;"
-    >
+    <a class="mr-5" b-slate-link="" href="http://66.ccf666.cn" target="_blank" style="color: orange;">
       Gemini Plus
     </a>
-    <a class="mr-5"
-      b-slate-link
-      href="http://ccf666.cn" target="_blank" style="color: green;"
-    >
+    <a class="mr-5" b-slate-link="" href="http://ccf666.cn" target="_blank" style="color: green;">
       ChatGPT-3.5-NextWeb
     </a>
-    <a class="mr-5"
-      b-slate-link
-      href="http://6.ccfgpt.cn" target="_blank" style="color: blue;"
-    >
+    <a class="mr-5" b-slate-link="" href="http://6.ccfgpt.cn" target="_blank" style="color: blue;">
       ChatGPT-3.5
     </a>
-    <a class="mr-5"
-      b-slate-link
-      href="http://supergpt.shop" target="_blank" style="color: black;"
-    >
+    <a class="mr-5" b-slate-link="" href="http://supergpt.shop" target="_blank" style="color: black;">
       ChatGPT-3.5-0125
     </a>
-    <a class="mr-5"
-      b-slate-link
-      href="http://6.ccf666.cn" target="_blank" style="color: red;"
-    >
+    <a class="mr-5" b-slate-link="" href="http://6.ccf666.cn" target="_blank" style="color: red;">
       ChatGPT-3.5-16k
     </a>
-    <a class="mr-5"
-      b-slate-link
-      href="http://66.supergpt.shop" target="_blank" style="color: orange;"
-    >
+    <a class="mr-5" b-slate-link="" href="http://66.supergpt.shop" target="_blank" style="color: orange;">
       ChatGPT-4.0-128k
     </a>
-    <a class="mr-5"
-      b-slate-link
-      href="http://chatpro.icu" target="_blank" style="color: green;"
-    >
+    <a class="mr-5" b-slate-link="" href="http://chatpro.icu" target="_blank" style="color: green;">
       ChatGPT-4.0-NextWeb
     </a>
-    <a class="mr-5"
-      b-slate-link
-      href="http://6.supergpt.shop" target="_blank" style="color: blue;"
-    >
+    <a class="mr-5" b-slate-link="" href="http://6.supergpt.shop" target="_blank" style="color: blue;">
       ChatGPT-Plugins
     </a>
-    <a class="mr-5"
-      b-slate-link
-      href="http://6.chatpro.icu" target="_blank" style="color: black;"
-    >
+    <a class="mr-5" b-slate-link="" href="http://6.chatpro.icu" target="_blank" style="color: black;">
       ChatGPT-4.0-turbo
     </a>
-    <a 
-      b-slate-link
-      href="http://66.chatpro.icu" target="_blank" style="color: red;"
-    >
+    <a b-slate-link="" href="http://66.chatpro.icu" target="_blank" style="color: red;">
       ChatGPT-Pro
     </a>
   </p>
